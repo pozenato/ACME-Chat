@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a ACME chat when the user can choise a author of the message and send a new message 
+This project using:
+	React-Js
+	Redux
+	JavaScript
+	Sass
+	Jest
+	Enzyme
+
 
 ## Available Scripts
 
