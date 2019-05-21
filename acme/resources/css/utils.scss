@@ -1,0 +1,7 @@
+$headerTitleFont: 'Acme';
+$headerTitleUrlFont: url('../fonts/Acme-Regular.ttf') format('opentype');
+
+@font-face {
+    font-family: $headerTitleFont;
+    src: $headerTitleUrlFont;
+}

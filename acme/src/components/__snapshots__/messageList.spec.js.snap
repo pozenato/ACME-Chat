@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Message List Component renders as expected 1`] = `
+<div>
+  <div
+    className="messageContext"
+    id="inner"
+  >
+    <div
+      className="messageDisplay"
+    >
+      <div
+        className="rightHeader messageHeader"
+      >
+        <img
+          alt="logo img"
+          className="messageImage"
+          src="https://vignette.wikia.nocookie.net/characters/images/f/f3/1.jpg/revision/latest?cb=20110511195714"
+        />
+         
+        Daffy Duck
+        , 
+        1:54 PM
+      </div>
+      <div
+        className="right messageText"
+      >
+        asdfasdf
+      </div>
+    </div>
+  </div>
+  <div
+    className="messageContext"
+    id="inner"
+  >
+    <div
+      className="messageDisplay"
+    >
+      <div
+        className="right messageText"
+      >
+        asdfasdf
+      </div>
+    </div>
+  </div>
+</div>
+`;

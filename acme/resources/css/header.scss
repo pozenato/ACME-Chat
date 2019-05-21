@@ -1,0 +1,22 @@
+.headerContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.headerText {
+    font-family: 'Acme', sans-serif;
+    font-size: 68px;
+    text-shadow: 4px 4px 4px #aaa;
+    padding-top: 30px
+}
+
+.logoContent {
+    flex-grow: 2;
+    justify-content: center;
+    max-height: 145px;
+}
+
+.titleContent {
+    display: flex;
+    flex-grow: 4;
+}

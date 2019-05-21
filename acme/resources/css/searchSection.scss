@@ -1,0 +1,14 @@
+.modalContext {
+    display: flex;
+    justify-content: space-between;
+    min-height: 100px;
+}
+
+.searchInput {
+    max-width: 50%;
+}
+
+.noData {
+    width: 100%;
+    text-align: center;
+}

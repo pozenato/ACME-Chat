@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Header renders as expected 1`] = `
+<div
+  className="headerContainer"
+>
+  <div
+    className="logoContent"
+  >
+    <img
+      alt="logo img"
+      className="headerImg"
+      src="Acme-corp.png"
+    />
+  </div>
+  <div
+    className="titleContent"
+  >
+    <h1
+      className="headerText"
+    >
+      ACME Discussions
+    </h1>
+  </div>
+</div>
+`;

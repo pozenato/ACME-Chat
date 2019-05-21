@@ -1,0 +1,23 @@
+.sendMessageContext {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.inputMessage {
+    flex: 4;
+    padding-right: 10px;
+    padding-left: 46px;
+}
+
+.selectorMessage {
+    flex: 1;
+    padding-left: 30px;
+}
+
+.sendButton {
+    flex: 0;
+    padding-left: 25px;
+    padding-right: 25px;
+}

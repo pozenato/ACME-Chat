@@ -1,0 +1,74 @@
+.messageContext {
+    min-height: 75%;
+    display: flex;
+}
+
+.messageHeader {
+    font-size: 12px;
+    padding: 0.3%;
+    padding-top: 1%;
+    width: 100%;
+}
+
+.messageText {
+    font-size: 20px;    
+    min-height: 50%;
+    flex-wrap: wrap;
+    word-wrap: break-word;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 50%;
+}
+
+.left {
+    flex: 1;
+    float: left;
+    text-align: left;
+    max-width: 50%;
+    background-color:rgb(229, 249, 249)
+}
+
+.right {
+    flex: 1;
+    float:right;
+    text-align: right;
+    max-width: 50%;
+    background-color:rgb(201, 238, 242)
+}
+
+.rightHeader {
+    flex: 1;
+    float:right;
+    text-align: right;
+    width: 100%;
+}
+
+.leftHeader {
+    flex: 1;
+    float: left;
+    text-align: left;
+    width: 100%;
+}
+
+.message {
+    width: 100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.messageDisplay {
+    width: 100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.messageblock {
+    max-width: 100%;
+}
+
+.messageImage {
+    width: auto;
+    display:inline-block;
+    height: 35px;
+    padding-right: 7px;
+}

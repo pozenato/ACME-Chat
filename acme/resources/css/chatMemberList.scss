@@ -1,0 +1,28 @@
+.chatMemberImage {
+    width: auto;
+    display:inline-block;
+    background: no-repeat center;
+    background-size: cover;
+    height: 50px;
+    justify-content: flex-start;
+}
+
+.chatMemberName {
+    flex: 4;
+    padding-left: 30px;
+    font-family: 'Acme', sans-serif;
+    font-size: 18px;
+    padding-top: 1rem
+}
+
+.chatMemberContext {
+    max-height: 50%;
+    display: flex;
+
+}
+
+.chatMemberTitle {
+    font-family: 'Acme', sans-serif;
+    font-size: 36px;
+    text-align: center;
+}

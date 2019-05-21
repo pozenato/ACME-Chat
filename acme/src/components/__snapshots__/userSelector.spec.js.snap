@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The User Selector renders as expected 1`] = `
+<div
+  id="components-dropdown-userSelector-dropdown-button"
+>
+  <button
+    className="ant-btn ant-dropdown-trigger DropDownMenu"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    type="button"
+  >
+    <div
+      className="userItemMenu"
+    >
+      <img
+        alt="logo img"
+        className="userImage"
+        src="http://www.latimes.com/includes/projects/hollywood/portraits/bugs_bunny.jpg"
+      />
+      <h4
+        className="nameItem"
+      >
+        Bugs Bunny
+      </h4>
+    </div>
+  </button>
+</div>
+`;
