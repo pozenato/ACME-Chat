@@ -1,6 +1,6 @@
 {
   "name": "acme",
-  "homepage": "./",
+  "homepage": "https://pozenato.github.io/ACME-Chat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
