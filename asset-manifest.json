@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.2b3b4588.chunk.css",
-    "main.js": "./static/js/main.d922aa51.chunk.js",
-    "main.js.map": "./static/js/main.d922aa51.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-    "static/css/2.e515a48f.chunk.css": "./static/css/2.e515a48f.chunk.css",
-    "static/js/2.c591c061.chunk.js": "./static/js/2.c591c061.chunk.js",
-    "static/js/2.c591c061.chunk.js.map": "./static/js/2.c591c061.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.4950f7541cbd2d1930db28e3c57bba23.js": "./precache-manifest.4950f7541cbd2d1930db28e3c57bba23.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.e515a48f.chunk.css.map": "./static/css/2.e515a48f.chunk.css.map",
-    "static/css/main.2b3b4588.chunk.css.map": "./static/css/main.2b3b4588.chunk.css.map",
-    "static/media/app.scss": "./static/media/Acme-Regular.cf2842ec.ttf",
-    "static/media/Acme-corp.png": "./static/media/Acme-corp.82be7c71.png"
+    "main.css": "/ACME-Chat/static/css/main.2510b1ec.chunk.css",
+    "main.js": "/ACME-Chat/static/js/main.d922aa51.chunk.js",
+    "main.js.map": "/ACME-Chat/static/js/main.d922aa51.chunk.js.map",
+    "runtime~main.js": "/ACME-Chat/static/js/runtime~main.287149db.js",
+    "runtime~main.js.map": "/ACME-Chat/static/js/runtime~main.287149db.js.map",
+    "static/css/2.e515a48f.chunk.css": "/ACME-Chat/static/css/2.e515a48f.chunk.css",
+    "static/js/2.d871712d.chunk.js": "/ACME-Chat/static/js/2.d871712d.chunk.js",
+    "static/js/2.d871712d.chunk.js.map": "/ACME-Chat/static/js/2.d871712d.chunk.js.map",
+    "index.html": "/ACME-Chat/index.html",
+    "precache-manifest.6e02cb344d294a56092b29eb1d839900.js": "/ACME-Chat/precache-manifest.6e02cb344d294a56092b29eb1d839900.js",
+    "service-worker.js": "/ACME-Chat/service-worker.js",
+    "static/css/2.e515a48f.chunk.css.map": "/ACME-Chat/static/css/2.e515a48f.chunk.css.map",
+    "static/css/main.2510b1ec.chunk.css.map": "/ACME-Chat/static/css/main.2510b1ec.chunk.css.map",
+    "static/media/app.scss": "/ACME-Chat/static/media/Acme-Regular.cf2842ec.ttf",
+    "static/media/Acme-corp.png": "/ACME-Chat/static/media/Acme-corp.82be7c71.png"
   }
 }
