@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d4053e644fb241799d1f3c240bc0d91",
+    "revision": "e4af4c6a70bebe603dcec19afe804e6b",
     "url": "/ACME-Chat/index.html"
   },
   {
-    "revision": "2b32dc5a3be1e529bcad",
+    "revision": "246f04263271d86723d4",
     "url": "/ACME-Chat/static/css/2.e515a48f.chunk.css"
   },
   {
-    "revision": "b8e556bddabc1998ebd4",
-    "url": "/ACME-Chat/static/css/main.2510b1ec.chunk.css"
+    "revision": "4dfabf0616acdaab17e2",
+    "url": "/ACME-Chat/static/css/main.87ff2ce8.chunk.css"
   },
   {
-    "revision": "2b32dc5a3be1e529bcad",
-    "url": "/ACME-Chat/static/js/2.d871712d.chunk.js"
+    "revision": "246f04263271d86723d4",
+    "url": "/ACME-Chat/static/js/2.dd770bc0.chunk.js"
   },
   {
-    "revision": "b8e556bddabc1998ebd4",
-    "url": "/ACME-Chat/static/js/main.d922aa51.chunk.js"
+    "revision": "4dfabf0616acdaab17e2",
+    "url": "/ACME-Chat/static/js/main.372bddc8.chunk.js"
   },
   {
     "revision": "3bfbd34680a81ab3666c",

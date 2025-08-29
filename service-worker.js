@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ACME-Chat/precache-manifest.6e02cb344d294a56092b29eb1d839900.js"
+  "/ACME-Chat/precache-manifest.4cc0afda0b75e7c1de99246aec4f624b.js"
 );
 
 self.addEventListener('message', (event) => {
